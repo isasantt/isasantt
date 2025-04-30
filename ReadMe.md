@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Estou trabalhando em um Site<br>🎮Gostaria de trabalhar com Back-end<br>🤝Procuro ajuda para otimizar meus projetos<br>🌱Estou aprendendo JavaScript e Linguagem C<br>🦋Sei HTML e CSS<br>🎀Tenho 15 anos
+💻Estou trabalhando em um Site<br>🎮Gostaria de ser desenvolvedora full-stack<br>🤝Procuro ajuda para otimizar meus projetos<br>🌱Estou aprendendo JAVA e Python<br>🦋Sei HTML, CSS, JavaScript e PHP<br>🎀Tenho 16 anos
 
 
 ## 🌐 Socials:
