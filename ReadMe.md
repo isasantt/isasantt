@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Estou trabalhando em um Site<br>🎮Gostaria de ser desenvolvedora full-stack<br>🤝Procuro ajuda para otimizar meus projetos<br>🌱Estou aprendendo JAVA e Python<br>🦋Sei HTML, CSS, JavaScript e PHP<br>🎀Tenho 16 anos
+💻Estou trabalhando em meu TCC (app)<br>🎮Gostaria de ser desenvolvedora full-stack<br>🤝Procuro ajuda para otimizar meus projetos<br>🌱Estou aprendendo React e Python<br>🦋Sei HTML, CSS, JavaScript e PHP<br>🎀Tenho 16 anos
 
 
 ## 🌐 Socials:
